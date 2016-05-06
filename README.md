@@ -66,3 +66,8 @@ All necessary MongoDB indexes will be created during the installation. A test te
 There should be at least one post and one user for the database to be installed. That is why it's impossible to delete the last post or user.
 
 If you want to start it from scratch please remove all existing collections from your database and delete the browser session cookie. The Install page will show up again.
+
+# Tutorials:
+- [Part 1](http://bogotobogo.com/python/Flask/Python_Flask_Blog_App_with_MongoDB.php)
+- [Part 2](http://bogotobogo.com/python/Flask/Python_Flask_Blog_App_with_MongoDB_and_Apache_WSGI.php)
+- [Part 3](http://bogotobogo.com/python/Flask/Python_Flask_Blog_App_Production_with_MongoDB_and_Apache_WSGI.php)

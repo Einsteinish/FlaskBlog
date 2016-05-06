@@ -14,7 +14,7 @@ import settings
 from helper_functions import *
 
 
-app = Flask('Blog')
+app = Flask('memonimo')
 #app = Flask(__name__)
 md = Markdown(app)
 md.register_extension(GitHubGistExtension)

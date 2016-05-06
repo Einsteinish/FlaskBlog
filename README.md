@@ -1,7 +1,6 @@
-# FlaskBlog
-
-simple blog  written in [Flask](http://flask.pocoo.org/)
-Used for [Memonimo.com](http://memonimo.com/)
+# FlaskBlog:
+- simple blog  written in [Flask](http://flask.pocoo.org/)
+- Used for [Memonimo.com](http://memonimo.com/)
 
 # Under the hood:
 - [Python](http://python.org/)

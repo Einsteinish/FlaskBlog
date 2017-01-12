@@ -5,6 +5,7 @@
 		<div id="wrapper">
 			{%- block nav -%}{%- include 'nav.html' -%}{%- endblock -%}
 			<div class="container">
+			        {%- include 'adsense-body-top.html' -%}
 				{%- block body -%}
 					{%- if posts -%}
 						{%- for post in posts -%}
@@ -68,6 +69,7 @@
 				{% endif %}
 			</div>
 		</div>
+		{%- include 'adsense-footer.html' -%}
 		{%- include 'footer.html' -%}
 		{%- block scripts -%}
 			<script src="//codeorigin.jquery.com/jquery-2.0.3.min.js"></script>
